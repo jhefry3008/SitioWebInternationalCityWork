@@ -19,6 +19,12 @@ Mi participación incluyó:
 - Integración de plugins como WooCommerce y formularios
 - Optimización de carga y despliegue en hosting
 
+El sitio permite a los visitantes:
+- Explorar los servicios de la empresa por secciones
+- Consultar información detallada de cada servicio
+- Realizar compras de publicaciones sobre la Gestion Docuemntal.
+- Enviar mensajes a través del formulario de contacto
+
 ---
 
 > 🔹 Proyecto realizado como parte de mi formación profesional en desarrollo web.
