@@ -1,10 +1,24 @@
-# Sitio Web International CityWork
+# 🌐 Sitio Web: International City Work
 
-## Tecnologías utilizadas: 
-- WordPress + Elementor / HTML, CSS, JavaScript.
-## URL: 
-    https://internationalcitywork.com
+Durante mi práctica profesional, participé en el desarrollo de sitios web empresariales reales, como este proyecto para **International City Work**. Aunque no puedo compartir el código fuente, el sitio está disponible públicamente en línea.
 
-## Descripción:
+## 🔧 Tecnologías utilizadas
+- WordPress + Elementor
+- HTML, CSS, JavaScript
+- Plugins: WooCommerce, formularios de contacto
 
-Desarrollo completo de una página web para la empresa [Nombre]. Participé en la creación de la estructura, maquetación de contenido, personalización del diseño, integración con plugins (WooCommerce, formularios de contacto, etc.), optimización de velocidad y puesta en producción.
+## 🌎 URL del sitio
+[https://internationalcitywork.com](https://internationalcitywork.com)
+
+## 📄 Descripción
+
+Desarrollo completo de una página web corporativa para **International City Work**.  
+Mi participación incluyó:
+- Estructuración y maquetación del contenido
+- Personalización del diseño visual
+- Integración de plugins como WooCommerce y formularios
+- Optimización de carga y despliegue en hosting
+
+---
+
+> 🔹 Proyecto realizado como parte de mi formación profesional en desarrollo web.
